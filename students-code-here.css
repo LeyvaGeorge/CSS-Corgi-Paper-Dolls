@@ -1,3 +1,19 @@
+.funny-glasses {
+    position: absolute;
+    top: 19.5em;
+    left: 26.75em;
+}
+.bandana {
+    position: absolute;
+    top: 11em;
+    left: 7em;
+}
+.pawprint {
+    position: fixed;
+    top: 3em;
+    left: 4em;
+}
+
 .luna {
     position: sticky;
     left:1em;

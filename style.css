@@ -79,11 +79,7 @@ main {
     width: 80px;
 }
 .monocle {
-    width: 40px;
-    position: relative;
-    top:2.5em;
-    left: 15.5em;
-
+    width: 40px; 
 }
 .absolute-corgi img  {
     margin-right: 1em;
@@ -100,12 +96,8 @@ main {
     transform: rotate(40deg);
 }
 .bandana {
-    position: absolute;
     width: 80px;
     transform: rotate(10deg);
-    top: 11.25em;;
-    left:6.5em;
-
 }
 .fixed-corgi {
     margin-right: 1em;
@@ -114,10 +106,7 @@ main {
     height: auto;
 }
 .pawprint {
-    position: fixed;
     width: 45px;
-    top: 3em;
-    left: 4em;
 }
 .sticky { 
     overflow: auto;
